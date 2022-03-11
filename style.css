@@ -1,0 +1,125 @@
+.sec1{
+    background-image: url(./ali.123.JPG);
+    height: 800px;
+    display: flex;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    color: azure;
+    margin-top: 50px;
+    }
+    .pp{
+      position: relative;
+      top: 50px;
+
+    }
+    .img1{
+      position: relative;
+      top: 70px;
+      border-radius: 50%;
+     
+    }
+    .div{
+      text-align: center;
+      font-size: 30px;
+      margin-left: 400px;
+      margin-right: 400px;
+      
+    }
+    .div1{
+      display: flex;
+      color: blue;
+      position: relative;
+      right: 50px;
+      background-position: right;
+      text-align: right;
+
+    }
+    .sec3{
+      background-image: url(./ali.123.JPG);
+      background-repeat: no-repeat;
+      margin-top: 100px;
+      
+      
+
+     
+      display: flex;
+     background-position: right;
+   
+      justify-content: right; 
+      
+      text-align: left ;
+      color: rgb(213, 230, 230);
+      font-size: 25px;
+     
+      
+      
+      
+    }
+
+    .h1{
+      color: black;
+      
+      margin-right: 400px; 
+     
+      
+    }
+    .p1{
+      
+      color: rgb(255, 251, 0);
+  
+      }
+      .sec4{
+       background-position: right;
+       justify-content: right; 
+       font-size: 20px;
+       margin-left: 70%;
+      }
+    .h2{
+      position: relative;
+      right: 200px;
+      top: 50px;
+    }
+    .sec5{
+      background-position: right;
+      justify-content: right; 
+      font-size: 20px;
+      margin-left: 70%;
+
+    }
+    .h3{
+      position: relative;
+      right: 300px;
+      top: 50px;
+
+    }
+    .button{
+      width: 200px;
+      height: 30px;
+      color: white;
+      font-size: 20px;
+      background-color: red;
+    }
+    .img{
+     height: 500px;
+     width: 1485px;
+     position: relative;
+     top: 50px;
+      
+    }    
+    
+    
+      
+
+    
+    
+   
+        
+       
+        
+        
+        
+       
+     
